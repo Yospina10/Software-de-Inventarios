@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752279733967",
+    "project_id": "software-de-inventarios",
+    "storage_bucket": "software-de-inventarios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752279733967:android:99b4f358cb5934189c59ba",
+        "android_client_info": {
+          "package_name": "com.example.sistemainventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752279733967-4a49grsjsuddbllqoto3fhkccjtt9ie3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCXbYFbZI41opMjYNrVpZ9BItI0BBxaaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752279733967-4a49grsjsuddbllqoto3fhkccjtt9ie3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
